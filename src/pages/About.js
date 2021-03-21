@@ -7,7 +7,7 @@ import Col from "../components/Col";
 function About() {
   return (
     <div>
-      <Hero backgroundImage="https://raw.githubusercontent.com/ycthao/reacttest/main/public/image/hero.jpg">
+      <Hero backgroundImage="https://raw.githubusercontent.com/ycthao/testreact/main/public/image/hero.jpg">
         <h1>Yeem Chij Thao</h1>
         <h2>An aspiring web developer</h2>
       </Hero>
