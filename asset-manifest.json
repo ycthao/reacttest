@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/testreact/static/css/main.556d6ca7.chunk.css",
-    "main.js": "/testreact/static/js/main.70b5be86.chunk.js",
-    "main.js.map": "/testreact/static/js/main.70b5be86.chunk.js.map",
+    "main.js": "/testreact/static/js/main.b295ef8c.chunk.js",
+    "main.js.map": "/testreact/static/js/main.b295ef8c.chunk.js.map",
     "runtime-main.js": "/testreact/static/js/runtime-main.ad76bde5.js",
     "runtime-main.js.map": "/testreact/static/js/runtime-main.ad76bde5.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/testreact/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.e88135d5.chunk.js": "/testreact/static/js/2.e88135d5.chunk.js",
-    "static/js/2.e88135d5.chunk.js.map": "/testreact/static/js/2.e88135d5.chunk.js.map",
+    "static/js/2.10d62fbd.chunk.js": "/testreact/static/js/2.10d62fbd.chunk.js",
+    "static/js/2.10d62fbd.chunk.js.map": "/testreact/static/js/2.10d62fbd.chunk.js.map",
     "index.html": "/testreact/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/testreact/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.556d6ca7.chunk.css.map": "/testreact/static/css/main.556d6ca7.chunk.css.map",
-    "static/js/2.e88135d5.chunk.js.LICENSE.txt": "/testreact/static/js/2.e88135d5.chunk.js.LICENSE.txt"
+    "static/js/2.10d62fbd.chunk.js.LICENSE.txt": "/testreact/static/js/2.10d62fbd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ad76bde5.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.e88135d5.chunk.js",
+    "static/js/2.10d62fbd.chunk.js",
     "static/css/main.556d6ca7.chunk.css",
-    "static/js/main.70b5be86.chunk.js"
+    "static/js/main.b295ef8c.chunk.js"
   ]
 }
