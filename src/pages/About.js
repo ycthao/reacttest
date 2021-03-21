@@ -7,7 +7,7 @@ import Col from "../components/Col";
 function About() {
   return (
     <div>
-      <Hero backgroundImage="https://image.freepik.com/free-vector/digial-circuit-diagram-technology-background_1017-28403.jpg">
+      <Hero backgroundImage="./image/hero.jpg">
         <h1>Yeem Chij Thao</h1>
         <h2>An aspiring web developer</h2>
       </Hero>

@@ -4,7 +4,7 @@ import { Card } from "react-bootstrap";
 
 function PortfolioCard(props) {
   return (
-    <Card className="col-4 bgc">
+    <Card className="col-6">
       <Card.Title>
         <h3>{props.name}</h3>
       </Card.Title>
